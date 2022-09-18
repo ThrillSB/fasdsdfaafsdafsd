@@ -2,8 +2,8 @@
 local ESP = {
 	Enabled = false,
 	Boxes = true,
-	BoxShift = CFrame.new(0,-4,0),
-	BoxSize = Vector3.new(5,0.2,0),
+	BoxShift = CFrame.new(0,-1,0),
+	BoxSize = Vector3.new(5,6,0),
 	Color = Color3.fromRGB(255, 255, 255),
 	FaceCamera = true,
 	Names = false,
